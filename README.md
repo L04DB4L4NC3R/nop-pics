@@ -1,2 +1,2 @@
 # nop-pics
-for uploading pics
+For uploading pics. See closed issues
